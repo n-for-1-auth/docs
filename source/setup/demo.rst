@@ -13,7 +13,9 @@ Once you download the key, go to the directory where the key is located and you 
 
 
 Party 0: Run ``ssh -i demo.pem ubuntu@52.43.71.13`` to access the instance.
+
 Party 1: Run ``ssh -i demo.pem ubuntu@52.36.82.224`` to access the instance.
+
 Party 2: Run ``ssh -i demo.pem ubuntu@52.35.221.216`` to access the instance.
 
 
