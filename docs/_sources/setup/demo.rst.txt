@@ -7,7 +7,7 @@ N-for-1 Auth's Email Authentication Demo
 
 Setup
 *************
-We provide AWS instances for the demo. The key to the instances is provided here: `demo key <https://drive.google.com/drive/folders/19mUpv8Ls6karS3KIxsRxJctKbBc3viFX?usp=sharing>`_.
+We provide AWS instances for the demo. The key to the instances is provided in the shared Google folder.
 
 Once you download the key, go to the directory where the key is located and you can ssh to the instances as follows.
 
